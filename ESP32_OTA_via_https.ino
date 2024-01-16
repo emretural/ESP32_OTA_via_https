@@ -6,6 +6,7 @@
 const char* ssid = "mySSID";
 const char* password = "myPASSWORD";
 
+//test change
 void setup()
 {
 	Serial.begin(115200);
