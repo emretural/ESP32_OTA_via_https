@@ -15,7 +15,6 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <None Include="ESP32_OTA_via_https.ino" />
     <None Include="ESP32_OTA_via_https.ino.esp32.bin">
       <Filter>Resource Files</Filter>
     </None>
@@ -32,5 +31,6 @@
     <ClCompile Include="wifi_functions.c">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="ESP32_OTA_via_https.ino" />
   </ItemGroup>
 </Project>
